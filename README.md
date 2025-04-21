@@ -1,8 +1,6 @@
 # TheraReach
 Developed a fully embedded robotic arm with 5 degrees of freedom, controlled by AI, to play games with you such as TicTacToe, along with an app to easily communicate with the robot and for game selection.
 
-![IMG_1076](https://github.com/user-attachments/assets/a78a7170-989b-4d7b-958d-eb17928b1f9d)
-
 Hardware Used:
 - 5x MG9964 12kg servos
 - 1x 25kg servo
@@ -19,5 +17,7 @@ Software Used:
 AI Used:
 - Convolutional Neural Network to train model to see different colored blocks with 90% accuracy
 - OpenCV for camera/location detection providing serial communication to the servos
+
+![IMG_1076](https://github.com/user-attachments/assets/a78a7170-989b-4d7b-958d-eb17928b1f9d)
 
 ![IMG_1076](https://github.com/user-attachments/assets/6f9207ff-b129-4c55-9552-9e4155a4adc6)

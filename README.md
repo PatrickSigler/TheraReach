@@ -6,9 +6,12 @@ Hardware Used:
 - 1x 25kg servo
 - PCA9865 Servo Driver
 - Raspberry Pi 5 16gb
+- Raspbery Pi Camera Module 3
+- External Webcam
 - 3D printed arm parts
 - Buildable servo controlled arm grabber
-- Power supply module with 2x AC/DC 5V 2A adapter power supply
+- Power supply module wtih capacitors
+- 2x AC/DC 5V 2A adapter power supply
 
 Software Used:
 - Raspberry Pi OS running python connected to the Arm

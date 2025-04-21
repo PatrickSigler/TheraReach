@@ -20,4 +20,5 @@ AI Used:
 
 ![IMG_1076](https://github.com/user-attachments/assets/a78a7170-989b-4d7b-958d-eb17928b1f9d)
 
-![IMG_1076](https://github.com/user-attachments/assets/6f9207ff-b129-4c55-9552-9e4155a4adc6)
+![IMG_1077](https://github.com/user-attachments/assets/e33386e9-5f29-4194-ae8d-08fcaacd0864)
+
